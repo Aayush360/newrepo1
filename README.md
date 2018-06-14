@@ -7,3 +7,4 @@ and this a part of my editing.
 returned back to master after second branching.
 again some basic editing.
 I think it is now being enhanced as I have added something, yeah! something.
+Again, I wanted to close the issue using the "fixes" keyword.
